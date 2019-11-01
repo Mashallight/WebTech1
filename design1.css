@@ -40,10 +40,6 @@ input[type=password]{
  	background: white;
 }
 
-input[type=password]{
-	margin: 5px 0 11px 0;
-}
-
 .button {
 	font-size: 16px;
 	color: black;
